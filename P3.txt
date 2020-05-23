@@ -1,2 +1,0 @@
-When I run these codes the time my random number generator took was 0.02104163169s while the numpy generator took 0.0009622573852539062. 
-Far batter than my code.
